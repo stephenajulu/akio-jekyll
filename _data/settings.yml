@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Akio
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+title: SANE.digital
+logo: '/images/logo2.png'
+description: Synthesis Consulting for technical organizations.
+color_scheme: dark
 
 
 #-------------------------------
@@ -58,32 +58,32 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: I’ve worked with some great сompanies
+  logos__title: Our team comes from the best of the best.
 
 logo__items:
   - name: Google
     link: "https://www.google.com/"
     image: "/images/google.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
+  - name: Santander
+    link: "https://www.santander.com/"
+    image: "/images/santander.svg"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
+  - name: Deloitte
+    link: "https://www.deloitte.com/"
+    image: "/images/deloitte.svg"
 
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
+  - name: VISA
+    link: "https://www.visa.com/"
+    image: "/images/visa.svg"
 
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
+  - name: Newsweek
+    link: "https://www.newsweek.com/"
+    image: "/images/newsweek.svg"
 
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
+  - name: Zipline
+    link: "https://www.zipline.com/"
+    image: "/images/zipline.svg"
 
 #-------------------------------
 # Newsletter
@@ -98,8 +98,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: Our work.
+  work__description: We help clients build, grow, and manage hybrid technical teams.
 
 
 #-------------------------------
