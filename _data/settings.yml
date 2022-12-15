@@ -2,7 +2,7 @@
 # Site Settings
 title: SANE.digital
 logo: '/images/logo2.png'
-description: Synthesis Consulting for technical organizations.
+description: Elevate your tech team.
 color_scheme: dark
 
 
@@ -29,13 +29,13 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: '/images/01.jpg'
+  author__name: SANE.digital
+  author__bio: "We help technical leaders reclaim their sanity." 
+  author__avatar:
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/sanedigital"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/san"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-github", link: "https://github.com"}
@@ -49,29 +49,29 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__title: Is managing your tech team driving you <span class='crazy'>insane</span>?
+  hero__description: SANE.digital helps technical leaders reclaim their sanity and elevate their team's status within their organization.<br><br>Increase your velocity, improve team morale, and impress your stakeholders in the process.
+  hero__image: "/images/hero.png"
 
 
 #-------------------------------
 # Logos Settings
 logos:
   enable: true
-  logos__title: Our team comes from the best of the best.
+  logos__title: "Our team comes from:"
 
 logo__items:
   - name: Google
     link: "https://www.google.com/"
     image: "/images/google.svg"
 
-  - name: Santander
-    link: "https://www.santander.com/"
-    image: "/images/santander.svg"
-
   - name: Deloitte
     link: "https://www.deloitte.com/"
     image: "/images/deloitte.svg"
+
+  - name: Santander
+    link: "https://www.santander.com/"
+    image: "/images/santander.svg"
 
   - name: VISA
     link: "https://www.visa.com/"
@@ -88,7 +88,7 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -98,8 +98,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Our work.
-  work__description: We help clients build, grow, and manage hybrid technical teams.
+  work__title: Industries
+  work__description: We have experience in several industries.
 
 
 #-------------------------------
@@ -183,8 +183,8 @@ footer__background__image: "/images/bg.jpg"
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: contact@sane.digital
+  description: Let's chat.
 
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -193,10 +193,10 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-N18G2SSBGW
